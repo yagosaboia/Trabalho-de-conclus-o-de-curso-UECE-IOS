@@ -1,4 +1,4 @@
-# Trabalho-de-conclus-o-de-curso-UECE-IOS
+# Trabalho-de-conclusão-de-curso-UECE-IOS
 Um estudo comparativo entre os diferentes estilos de construção da interface de usuário no ambiente iOS
 
 Trabalho de conclusão de curso realizado pelo ex-aluno Yago Saboia Felix Frota na Universidade Estadual do Ceará(UECE).
